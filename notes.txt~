@@ -1,0 +1,5 @@
+This seems like a snippet of code for a spinning character:
+
+while True:
+    for i in ["/","-","|","\\","|"]:
+        print "%s\r" % i,
