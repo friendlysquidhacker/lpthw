@@ -10,5 +10,3 @@ print formatter % (
     "But it didn't sing.",
     "So I said goodnight."
 )
-
-# Aha! The third quote has a single-quote / apostrophe in it, so it's shown with double quotes.
