@@ -21,3 +21,7 @@ ESCAPE SEQUENCES
 \v	ASCII vertical tab (VT)
 \ooo	Character with octal value ooo
 \xhh	Character with hex value hh
+
+STUDY DRILL EX12 --
+
+Seems pydoc is a super helpful command for looking through the code and explanation of modules called in Python.
